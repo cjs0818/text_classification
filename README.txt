@@ -1,0 +1,13 @@
+170922 Ahn Young Do
+
+***
+***
+text_classification
+***
+***
+
+input data : listen_data, callerReceiverPair
+output data : sentence.caller, sentence.taker
+usage : python text_main.py
+
+spacific contents : Weekly Report_170922안영도
